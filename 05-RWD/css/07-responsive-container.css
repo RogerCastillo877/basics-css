@@ -1,0 +1,19 @@
+.oferta {
+  background-color: #00446e;
+  padding: 2rem;
+  text-align: center;
+}
+
+.precio {
+  font-size: 4rem;
+  margin: 0;
+}
+
+.contenedor-responsive {
+  background-color: #fff;
+  /* width: 90%;
+  max-width: 1000px; */
+  width: min(90%, 1000px);
+  height: 400px;
+  margin: 0 auto;
+}

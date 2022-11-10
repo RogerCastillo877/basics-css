@@ -1,0 +1,21 @@
+.oferta {
+  background-color: #00446e;
+  padding: 2rem;
+  text-align: center;
+}
+
+.precio {
+  font-size: 4rem;
+  margin: 0;
+}
+
+/* 
+Shorthand
+__css.json__
+"media query": {
+  "prefix": "mq",
+  "body": [
+    "@media (min-width: $1) {\n\t$2\n}"
+  ]
+} 
+*/

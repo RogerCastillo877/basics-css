@@ -1,0 +1,7 @@
+/* ul li:last-of-type {
+  color: green;
+} */
+
+ul li:last-child {
+  color: green;
+}

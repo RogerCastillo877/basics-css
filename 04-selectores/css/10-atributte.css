@@ -1,0 +1,17 @@
+a[href="http://www.google.com"] {
+  color: green;
+}
+
+/* All links to start with */
+a[href^="http"] {
+  color: blue;
+}
+
+/* All links to ends with */
+a[href$=".html"] {
+  color: yellow;
+}
+
+input[type="tel"] {
+  border: 2px solid lightgray;
+}

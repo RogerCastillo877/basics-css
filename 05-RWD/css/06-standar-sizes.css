@@ -1,0 +1,29 @@
+.oferta {
+  background-color: #00446e;
+  padding: 2rem;
+  text-align: center;
+}
+
+.precio {
+  font-size: 4rem;
+  margin: 0;
+}
+
+/* Bootstrap */
+@media (min-width: 576px) {}
+@media (min-width: 768px) {}
+@media (min-width: 992px) {}
+@media (min-width: 1200px) {}
+
+/*
+Reference
+https://responsively.app/ --> download
+https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+*/
+
+/* Recommendations */
+@media (min-width: 550px) {}
+@media (min-width: 768px) {}
+@media (min-width: 1024px) {}
+@media (min-width: 1200px) {}
+@media (min-width: 1600px) {}

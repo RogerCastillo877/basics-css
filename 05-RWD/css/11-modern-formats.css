@@ -1,0 +1,24 @@
+
+
+/*
+<picture>
+  <source srcset="img/imagen.avif" type="imagen.avif">
+  <source srcset="img/imagen.webp" type="image/webp">
+  <img loading="lazy" src="img/imagen.jpg" alt="imagen responsive" >
+</picture>
+*/
+
+/*
+Shorthand
+__html.json__
+"images": {
+  "prefix": "mq",
+  "body": [
+    "<picture>",
+      "\t<source srcset=\".avif\" type=\"imagen.avif\">"
+      "\t<source srcset=\".webp\" type= \"image/webp\">"
+      "\t<img loading=\"lazy\" src=\".jpg\" alt=\"imagen responsive\" width=\"500\" height=\"300\" alt=\"imagen\" >"
+    "</picture>"
+  ]
+} 
+*/
